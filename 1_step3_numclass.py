@@ -65,7 +65,7 @@ for i in range(len(data)):
     if(row_data['Alcohol_drinking'][i] == 'Current'):
         row_data['Alcohol_drinking'][i] = 2
         row_data['Alcohol_drinking'] = row_data['Alcohol_drinking'].astype(int)
-    elif(row_data['Alcohol_drinking'][i] == 'Alcohol_drinking'):
+    elif(row_data['Alcohol_drinking'][i] == 'Previous'):
         row_data['Alcohol_drinking'][i] = 1
         row_data['Alcohol_drinking'] = row_data['Alcohol_drinking'].astype(int)
     elif(row_data['Alcohol_drinking'][i] == 'Never'):
