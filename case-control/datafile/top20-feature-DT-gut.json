@@ -1,0 +1,102 @@
+{
+  "749": {
+    "rank": 1,
+    "name": "k__Bacteria.p__Bacteroidetes",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "738": {
+    "rank": 2,
+    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "744": {
+    "rank": 3,
+    "name": "k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "658": {
+    "rank": 4,
+    "name": "k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "741": {
+    "rank": 5,
+    "name": "k__Bacteria.p__Firmicutes.c__Erysipelotrichia.o__Erysipelotrichales",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "652": {
+    "rank": 6,
+    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "748": {
+    "rank": 7,
+    "name": "k__Bacteria.p__Actinobacteria",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "677": {
+    "rank": 8,
+    "name": "k__Bacteria.p__Firmicutes.c__Erysipelotrichia.o__Erysipelotrichales.f__Erysipelotrichaceae",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "694": {
+    "rank": 9,
+    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidales_noname.g__Bacteroidales_noname",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "684": {
+    "rank": 10,
+    "name": "k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "655": {
+    "rank": 11,
+    "name": "k__Bacteria.p__Firmicutes.c__Erysipelotrichia",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "651": {
+    "rank": 12,
+    "name": "k__Bacteria.p__Actinobacteria.c__Actinobacteria",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "660": {
+    "rank": 13,
+    "name": "k__Bacteria.p__Verrucomicrobia.c__Verrucomicrobiae",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "747": {
+    "rank": 14,
+    "name": "k__Bacteria.p__Verrucomicrobia.c__Verrucomicrobiae.o__Verrucomicrobiales",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "663": {
+    "rank": 15,
+    "name": "k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Coriobacteriales.f__Coriobacteriaceae",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "673": {
+    "rank": 16,
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "662": {
+    "rank": 17,
+    "name": "k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "707": {
+    "rank": 18,
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "745": {
+    "rank": 19,
+    "name": "k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "746": {
+    "rank": 20,
+    "name": "k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pasteurellales",
+    "pvalue(-logP)": 2.709269960975831
+  }
+}

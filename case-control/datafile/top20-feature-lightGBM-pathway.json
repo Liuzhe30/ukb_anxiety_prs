@@ -1,0 +1,102 @@
+{
+  "538": {
+    "rank": 1,
+    "name": "PWY.5088..L.glutamate.degradation.VIII..to.propanoate.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "644": {
+    "rank": 2,
+    "name": "SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis",
+    "pvalue(-logP)": 2.4082399653118496
+  },
+  "620": {
+    "rank": 3,
+    "name": "PWY.7315..dTDP.N.acetylthomosamine.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "539": {
+    "rank": 4,
+    "name": "PWY.5097..L.lysine.biosynthesis.VI",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "505": {
+    "rank": 5,
+    "name": "PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 2.010299956639812
+  },
+  "507": {
+    "rank": 6,
+    "name": "PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "514": {
+    "rank": 7,
+    "name": "PWY0.1061..superpathway.of.L.alanine.biosynthesis",
+    "pvalue(-logP)": 2.010299956639812
+  },
+  "491": {
+    "rank": 8,
+    "name": "NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I",
+    "pvalue(-logP)": 2.010299956639812
+  },
+  "454": {
+    "rank": 9,
+    "name": "COA.PWY..coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 2.4082399653118496
+  },
+  "625": {
+    "rank": 10,
+    "name": "PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "471": {
+    "rank": 11,
+    "name": "GLCMANNANAUT.PWY..superpathway.of.N.acetylglucosamine..N.acetylmannosamine.and.N.acetylneuraminate.degradation",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "572": {
+    "rank": 12,
+    "name": "PWY.6151..S.adenosyl.L.methionine.cycle.I",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "466": {
+    "rank": 13,
+    "name": "FUCCAT.PWY..fucose.degradation",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "533": {
+    "rank": 14,
+    "name": "PWY.4242..pantothenate.and.coenzyme.A.biosynthesis.III",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "552": {
+    "rank": 15,
+    "name": "PWY.5659..GDP.mannose.biosynthesis",
+    "pvalue(-logP)": 2.2321487062561682
+  },
+  "523": {
+    "rank": 16,
+    "name": "PWY0.1533..methylphosphonate.degradation.I",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "570": {
+    "rank": 17,
+    "name": "PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II",
+    "pvalue(-logP)": 1.7092699609758308
+  },
+  "567": {
+    "rank": 18,
+    "name": "PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.",
+    "pvalue(-logP)": 2.4082399653118496
+  },
+  "587": {
+    "rank": 19,
+    "name": "PWY.6609..adenine.and.adenosine.salvage.III",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "547": {
+    "rank": 20,
+    "name": "PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.",
+    "pvalue(-logP)": 1.3113299523037931
+  }
+}

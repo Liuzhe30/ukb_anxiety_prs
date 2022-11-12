@@ -1,0 +1,102 @@
+{
+  "538": {
+    "rank": 1,
+    "name": "PWY.5088..L.glutamate.degradation.VIII..to.propanoate.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "491": {
+    "rank": 2,
+    "name": "NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "555": {
+    "rank": 3,
+    "name": "PWY.5686..UMP.biosynthesis",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "533": {
+    "rank": 4,
+    "name": "PWY.4242..pantothenate.and.coenzyme.A.biosynthesis.III",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "454": {
+    "rank": 5,
+    "name": "COA.PWY..coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "572": {
+    "rank": 6,
+    "name": "PWY.6151..S.adenosyl.L.methionine.cycle.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "517": {
+    "rank": 7,
+    "name": "PWY0.1296..purine.ribonucleosides.degradation",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "507": {
+    "rank": 8,
+    "name": "PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "504": {
+    "rank": 9,
+    "name": "PANTO.PWY..phosphopantothenate.biosynthesis.I",
+    "pvalue(-logP)": 1.3113299523037931
+  },
+  "505": {
+    "rank": 10,
+    "name": "PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 2.010299956639812
+  },
+  "539": {
+    "rank": 11,
+    "name": "PWY.5097..L.lysine.biosynthesis.VI",
+    "pvalue(-logP)": 2.2321487062561682
+  },
+  "471": {
+    "rank": 12,
+    "name": "GLCMANNANAUT.PWY..superpathway.of.N.acetylglucosamine..N.acetylmannosamine.and.N.acetylneuraminate.degradation",
+    "pvalue(-logP)": 1.7092699609758308
+  },
+  "574": {
+    "rank": 13,
+    "name": "PWY.621..sucrose.degradation.III..sucrose.invertase.",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "453": {
+    "rank": 14,
+    "name": "BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "594": {
+    "rank": 15,
+    "name": "PWY.6700..queuosine.biosynthesis",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "598": {
+    "rank": 16,
+    "name": "PWY.6737..starch.degradation.V",
+    "pvalue(-logP)": 2.4082399653118496
+  },
+  "562": {
+    "rank": 17,
+    "name": "PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "560": {
+    "rank": 18,
+    "name": "PWY.5850..superpathway.of.menaquinol.6.biosynthesis.I",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "530": {
+    "rank": 19,
+    "name": "PWY.2942..L.lysine.biosynthesis.III",
+    "pvalue(-logP)": 1.3113299523037931
+  },
+  "446": {
+    "rank": 20,
+    "name": "ANAEROFRUCAT.PWY..homolactic.fermentation",
+    "pvalue(-logP)": 1.5631419252975927
+  }
+}

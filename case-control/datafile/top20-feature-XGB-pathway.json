@@ -1,0 +1,97 @@
+{
+  "538": {
+    "rank": 1,
+    "name": "PWY.5088..L.glutamate.degradation.VIII..to.propanoate.",
+    "pvalue(-logP)": 2.4082399653118496
+  },
+  "562": {
+    "rank": 2,
+    "name": "PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate",
+    "pvalue(-logP)": 2.010299956639812
+  },
+  "588": {
+    "rank": 3,
+    "name": "PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis",
+    "pvalue(-logP)": 2.4082399653118496
+  },
+  "454": {
+    "rank": 4,
+    "name": "COA.PWY..coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "524": {
+    "rank": 5,
+    "name": "PWY0.1586..peptidoglycan.maturation..meso.diaminopimelate.containing.",
+    "pvalue(-logP)": 1.3113299523037931
+  },
+  "540": {
+    "rank": 6,
+    "name": "PWY.5100..pyruvate.fermentation.to.acetate.and.lactate.II",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "605": {
+    "rank": 7,
+    "name": "PWY.7003..glycerol.degradation.to.butanol",
+    "pvalue(-logP)": 1.7092699609758308
+  },
+  "476": {
+    "rank": 8,
+    "name": "GLYCOGENSYNTH.PWY..glycogen.biosynthesis.I..from.ADP.D.Glucose.",
+    "pvalue(-logP)": 1.3113299523037931
+  },
+  "564": {
+    "rank": 9,
+    "name": "PWY.5941..glycogen.degradation.II..eukaryotic.",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "647": {
+    "rank": 10,
+    "name": "TRPSYN.PWY..L.tryptophan.biosynthesis",
+    "pvalue(-logP)": 1.3113299523037931
+  },
+  "447": {
+    "rank": 11,
+    "name": "ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "469": {
+    "rank": 12,
+    "name": "GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "575": {
+    "rank": 13,
+    "name": "PWY.6263..superpathway.of.menaquinol.8.biosynthesis.II",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "584": {
+    "rank": 14,
+    "name": "PWY.6588..pyruvate.fermentation.to.acetone",
+    "pvalue(-logP)": 1.7092699609758308
+  },
+  "642": {
+    "rank": 15,
+    "name": "SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I",
+    "pvalue(-logP)": 1.4305163600230018
+  },
+  "527": {
+    "rank": 16,
+    "name": "PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage",
+    "pvalue(-logP)": 1.3113299523037931
+  },
+  "504": {
+    "rank": 17,
+    "name": "PANTO.PWY..phosphopantothenate.biosynthesis.I",
+    "pvalue(-logP)": 1.864171920961574
+  },
+  "545": {
+    "rank": 18,
+    "name": "PWY.5177..glutaryl.CoA.degradation",
+    "pvalue(-logP)": 1.5631419252975927
+  },
+  "595": {
+    "rank": 19,
+    "name": "PWY.6703..preQ0.biosynthesis",
+    "pvalue(-logP)": 2.010299956639812
+  }
+}

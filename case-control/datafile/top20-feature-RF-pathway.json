@@ -1,0 +1,102 @@
+{
+  "538": {
+    "rank": 1,
+    "name": "PWY.5088..L.glutamate.degradation.VIII..to.propanoate.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "491": {
+    "rank": 2,
+    "name": "NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "510": {
+    "rank": 3,
+    "name": "POLYAMSYN.PWY..superpathway.of.polyamine.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "533": {
+    "rank": 4,
+    "name": "PWY.4242..pantothenate.and.coenzyme.A.biosynthesis.III",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "555": {
+    "rank": 5,
+    "name": "PWY.5686..UMP.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "454": {
+    "rank": 6,
+    "name": "COA.PWY..coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "594": {
+    "rank": 7,
+    "name": "PWY.6700..queuosine.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "572": {
+    "rank": 8,
+    "name": "PWY.6151..S.adenosyl.L.methionine.cycle.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "505": {
+    "rank": 9,
+    "name": "PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "574": {
+    "rank": 10,
+    "name": "PWY.621..sucrose.degradation.III..sucrose.invertase.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "507": {
+    "rank": 11,
+    "name": "PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "539": {
+    "rank": 12,
+    "name": "PWY.5097..L.lysine.biosynthesis.VI",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "471": {
+    "rank": 13,
+    "name": "GLCMANNANAUT.PWY..superpathway.of.N.acetylglucosamine..N.acetylmannosamine.and.N.acetylneuraminate.degradation",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "453": {
+    "rank": 14,
+    "name": "BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "561": {
+    "rank": 15,
+    "name": "PWY.5913..TCA.cycle.VI..obligate.autotrophs.",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "504": {
+    "rank": 16,
+    "name": "PANTO.PWY..phosphopantothenate.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "645": {
+    "rank": 17,
+    "name": "THRESYN.PWY..superpathway.of.L.threonine.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "517": {
+    "rank": 18,
+    "name": "PWY0.1296..purine.ribonucleosides.degradation",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "462": {
+    "rank": 19,
+    "name": "ECASYN.PWY..enterobacterial.common.antigen.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831
+  },
+  "530": {
+    "rank": 20,
+    "name": "PWY.2942..L.lysine.biosynthesis.III",
+    "pvalue(-logP)": 2.709269960975831
+  }
+}
