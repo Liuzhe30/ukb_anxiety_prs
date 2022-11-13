@@ -1,102 +1,122 @@
 {
-  "538": {
+  "459": {
     "rank": 1,
-    "name": "PWY.5088..L.glutamate.degradation.VIII..to.propanoate.",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "DAPLYSINESYN.PWY..L.lysine.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 137.0
   },
-  "644": {
+  "605": {
     "rank": 2,
-    "name": "SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis",
-    "pvalue(-logP)": 2.4082399653118496
+    "name": "PWY.7003..glycerol.degradation.to.butanol",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 125.0
   },
-  "620": {
+  "460": {
     "rank": 3,
-    "name": "PWY.7315..dTDP.N.acetylthomosamine.biosynthesis",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 125.0
   },
-  "539": {
+  "509": {
     "rank": 4,
-    "name": "PWY.5097..L.lysine.biosynthesis.VI",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 119.0
   },
-  "505": {
+  "449": {
     "rank": 5,
-    "name": "PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I",
-    "pvalue(-logP)": 2.010299956639812
+    "name": "ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion",
+    "pvalue(-logP)": 2.2321487062561682,
+    "feature importance": 113.0
   },
-  "507": {
+  "540": {
     "rank": 6,
-    "name": "PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "PWY.5100..pyruvate.fermentation.to.acetate.and.lactate.II",
+    "pvalue(-logP)": 2.010299956639812,
+    "feature importance": 110.0
   },
-  "514": {
+  "515": {
     "rank": 7,
-    "name": "PWY0.1061..superpathway.of.L.alanine.biosynthesis",
-    "pvalue(-logP)": 2.010299956639812
+    "name": "PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 110.0
   },
-  "491": {
+  "580": {
     "rank": 8,
-    "name": "NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I",
-    "pvalue(-logP)": 2.010299956639812
+    "name": "PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 108.0
   },
-  "454": {
+  "465": {
     "rank": 9,
-    "name": "COA.PWY..coenzyme.A.biosynthesis.I",
-    "pvalue(-logP)": 2.4082399653118496
+    "name": "FERMENTATION.PWY..mixed.acid.fermentation",
+    "pvalue(-logP)": 1.4305163600230018,
+    "feature importance": 107.0
   },
-  "625": {
+  "566": {
     "rank": 10,
-    "name": "PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.",
-    "pvalue(-logP)": 1.5631419252975927
+    "name": "PWY.5973..cis.vaccenate.biosynthesis",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 103.0
   },
-  "471": {
+  "447": {
     "rank": 11,
-    "name": "GLCMANNANAUT.PWY..superpathway.of.N.acetylglucosamine..N.acetylmannosamine.and.N.acetylneuraminate.degradation",
-    "pvalue(-logP)": 1.4305163600230018
+    "name": "ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.",
+    "pvalue(-logP)": 1.864171920961574,
+    "feature importance": 101.0
   },
-  "572": {
+  "452": {
     "rank": 12,
-    "name": "PWY.6151..S.adenosyl.L.methionine.cycle.I",
-    "pvalue(-logP)": 1.864171920961574
+    "name": "AST.PWY..L.arginine.degradation.II..AST.pathway.",
+    "pvalue(-logP)": 2.010299956639812,
+    "feature importance": 101.0
   },
-  "466": {
+  "500": {
     "rank": 13,
-    "name": "FUCCAT.PWY..fucose.degradation",
-    "pvalue(-logP)": 1.5631419252975927
+    "name": "P23.PWY..reductive.TCA.cycle.I",
+    "pvalue(-logP)": 2.010299956639812,
+    "feature importance": 99.0
   },
-  "533": {
+  "588": {
     "rank": 14,
-    "name": "PWY.4242..pantothenate.and.coenzyme.A.biosynthesis.III",
-    "pvalue(-logP)": 1.4305163600230018
+    "name": "PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 99.0
   },
-  "552": {
+  "575": {
     "rank": 15,
-    "name": "PWY.5659..GDP.mannose.biosynthesis",
-    "pvalue(-logP)": 2.2321487062561682
+    "name": "PWY.6263..superpathway.of.menaquinol.8.biosynthesis.II",
+    "pvalue(-logP)": 1.4305163600230018,
+    "feature importance": 98.0
   },
-  "523": {
+  "579": {
     "rank": 16,
-    "name": "PWY0.1533..methylphosphonate.degradation.I",
-    "pvalue(-logP)": 1.5631419252975927
+    "name": "PWY.6353..purine.nucleotides.degradation.II..aerobic.",
+    "pvalue(-logP)": 1.4305163600230018,
+    "feature importance": 97.0
   },
-  "570": {
+  "617": {
     "rank": 17,
-    "name": "PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II",
-    "pvalue(-logP)": 1.7092699609758308
+    "name": "PWY.7237..myo...chiro..and.scillo.inositol.degradation",
+    "pvalue(-logP)": 1.5631419252975927,
+    "feature importance": 97.0
   },
-  "567": {
+  "608": {
     "rank": 18,
-    "name": "PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.",
-    "pvalue(-logP)": 2.4082399653118496
+    "name": "PWY.7196..superpathway.of.pyrimidine.ribonucleosides.salvage",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 95.0
   },
-  "587": {
+  "626": {
     "rank": 19,
-    "name": "PWY.6609..adenine.and.adenosine.salvage.III",
-    "pvalue(-logP)": 1.864171920961574
+    "name": "PWY.7446..sulfoglycolysis",
+    "pvalue(-logP)": 1.7092699609758308,
+    "feature importance": 95.0
   },
-  "547": {
+  "458": {
     "rank": 20,
-    "name": "PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.",
-    "pvalue(-logP)": 1.3113299523037931
+    "name": "CRNFORCAT.PWY..creatinine.degradation.I",
+    "pvalue(-logP)": 1.4305163600230018,
+    "feature importance": 95.0
   }
 }

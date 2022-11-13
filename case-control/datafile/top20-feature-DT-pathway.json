@@ -1,102 +1,122 @@
 {
-  "538": {
+  "580": {
     "rank": 1,
-    "name": "PWY.5088..L.glutamate.degradation.VIII..to.propanoate.",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 0.0051426691320503965
   },
-  "491": {
+  "597": {
     "rank": 2,
-    "name": "NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "PWY.6731..starch.degradation.III",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 0.004994627781945076
   },
-  "555": {
+  "596": {
     "rank": 3,
-    "name": "PWY.5686..UMP.biosynthesis",
-    "pvalue(-logP)": 1.864171920961574
+    "name": "PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 0.004958637041463557
   },
-  "533": {
+  "451": {
     "rank": 4,
-    "name": "PWY.4242..pantothenate.and.coenzyme.A.biosynthesis.III",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 0.0049395033670031185
   },
-  "454": {
+  "614": {
     "rank": 5,
-    "name": "COA.PWY..coenzyme.A.biosynthesis.I",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis",
+    "pvalue(-logP)": 1.864171920961574,
+    "feature importance": 0.004894957934193759
   },
-  "572": {
+  "500": {
     "rank": 6,
-    "name": "PWY.6151..S.adenosyl.L.methionine.cycle.I",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "P23.PWY..reductive.TCA.cycle.I",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 0.004868356544423446
   },
-  "517": {
+  "647": {
     "rank": 7,
-    "name": "PWY0.1296..purine.ribonucleosides.degradation",
-    "pvalue(-logP)": 2.709269960975831
+    "name": "TRPSYN.PWY..L.tryptophan.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.004863305630327522
   },
-  "507": {
+  "593": {
     "rank": 8,
-    "name": "PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.",
-    "pvalue(-logP)": 1.864171920961574
+    "name": "PWY.6690..cinnamate.and.3.hydroxycinnamate.degradation.to.2.oxopent.4.enoate",
+    "pvalue(-logP)": 2.010299956639812,
+    "feature importance": 0.004857566232336923
   },
-  "504": {
+  "544": {
     "rank": 9,
-    "name": "PANTO.PWY..phosphopantothenate.biosynthesis.I",
-    "pvalue(-logP)": 1.3113299523037931
+    "name": "PWY.5173..superpathway.of.acetyl.CoA.biosynthesis",
+    "pvalue(-logP)": 1.864171920961574,
+    "feature importance": 0.004843704814522147
   },
-  "505": {
+  "588": {
     "rank": 10,
-    "name": "PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I",
-    "pvalue(-logP)": 2.010299956639812
+    "name": "PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis",
+    "pvalue(-logP)": 1.7092699609758308,
+    "feature importance": 0.0048338971663420185
   },
-  "539": {
+  "534": {
     "rank": 11,
-    "name": "PWY.5097..L.lysine.biosynthesis.VI",
-    "pvalue(-logP)": 2.2321487062561682
+    "name": "PWY.4984..urea.cycle",
+    "pvalue(-logP)": 1.864171920961574,
+    "feature importance": 0.004821935059411433
   },
-  "471": {
+  "609": {
     "rank": 12,
-    "name": "GLCMANNANAUT.PWY..superpathway.of.N.acetylglucosamine..N.acetylmannosamine.and.N.acetylneuraminate.degradation",
-    "pvalue(-logP)": 1.7092699609758308
+    "name": "PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation",
+    "pvalue(-logP)": 2.4082399653118496,
+    "feature importance": 0.00481718100973771
   },
-  "574": {
+  "515": {
     "rank": 13,
-    "name": "PWY.621..sucrose.degradation.III..sucrose.invertase.",
-    "pvalue(-logP)": 1.5631419252975927
+    "name": "PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis",
+    "pvalue(-logP)": 1.3113299523037931,
+    "feature importance": 0.004785389808927315
   },
-  "453": {
+  "627": {
     "rank": 14,
-    "name": "BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis",
-    "pvalue(-logP)": 1.864171920961574
+    "name": "PWY.7456..mannan.degradation",
+    "pvalue(-logP)": 1.7092699609758308,
+    "feature importance": 0.004766345686581106
   },
-  "594": {
+  "626": {
     "rank": 15,
-    "name": "PWY.6700..queuosine.biosynthesis",
-    "pvalue(-logP)": 1.4305163600230018
+    "name": "PWY.7446..sulfoglycolysis",
+    "pvalue(-logP)": 1.7092699609758308,
+    "feature importance": 0.004753181582961353
   },
-  "598": {
+  "640": {
     "rank": 16,
-    "name": "PWY.6737..starch.degradation.V",
-    "pvalue(-logP)": 2.4082399653118496
+    "name": "RHAMCAT.PWY..L.rhamnose.degradation.I",
+    "pvalue(-logP)": 1.864171920961574,
+    "feature importance": 0.004750875976675393
   },
-  "562": {
+  "460": {
     "rank": 17,
-    "name": "PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate",
-    "pvalue(-logP)": 1.5631419252975927
+    "name": "DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II",
+    "pvalue(-logP)": 1.5631419252975927,
+    "feature importance": 0.0047493555074465035
   },
-  "560": {
+  "602": {
     "rank": 18,
-    "name": "PWY.5850..superpathway.of.menaquinol.6.biosynthesis.I",
-    "pvalue(-logP)": 1.864171920961574
+    "name": "PWY.6897..thiamin.salvage.II",
+    "pvalue(-logP)": 2.2321487062561682,
+    "feature importance": 0.004749353498630331
   },
-  "530": {
+  "548": {
     "rank": 19,
-    "name": "PWY.2942..L.lysine.biosynthesis.III",
-    "pvalue(-logP)": 1.3113299523037931
+    "name": "PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.",
+    "pvalue(-logP)": 1.4305163600230018,
+    "feature importance": 0.004743339174173168
   },
-  "446": {
+  "480": {
     "rank": 20,
-    "name": "ANAEROFRUCAT.PWY..homolactic.fermentation",
-    "pvalue(-logP)": 1.5631419252975927
+    "name": "HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.",
+    "pvalue(-logP)": 1.4305163600230018,
+    "feature importance": 0.004722932853503592
   }
 }
