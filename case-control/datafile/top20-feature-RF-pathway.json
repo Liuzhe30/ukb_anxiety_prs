@@ -1,120 +1,140 @@
 {
   "509": {
     "rank": 1,
+    "index": "509",
     "name": "POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.02745310259015539
   },
   "580": {
     "rank": 2,
+    "index": "580",
     "name": "PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.0274387798087317
   },
   "612": {
     "rank": 3,
+    "index": "612",
     "name": "PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.027238195622251136
   },
   "451": {
     "rank": 4,
+    "index": "451",
     "name": "ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.0271213953654078
   },
   "626": {
     "rank": 5,
+    "index": "626",
     "name": "PWY.7446..sulfoglycolysis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.027096969925849416
   },
   "495": {
     "rank": 6,
+    "index": "495",
     "name": "P108.PWY..pyruvate.fermentation.to.propanoate.I",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.027078830818142677
   },
   "609": {
     "rank": 7,
+    "index": "609",
     "name": "PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.027028854288735218
   },
   "500": {
     "rank": 8,
+    "index": "500",
     "name": "P23.PWY..reductive.TCA.cycle.I",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026929320296503988
   },
   "640": {
     "rank": 9,
+    "index": "640",
     "name": "RHAMCAT.PWY..L.rhamnose.degradation.I",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026914388808928106
   },
   "615": {
     "rank": 10,
+    "index": "615",
     "name": "PWY.7221..guanosine.ribonucleotides.de.novo.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026863719877780183
   },
   "592": {
     "rank": 11,
+    "index": "592",
     "name": "PWY66.422..D.galactose.degradation.V..Leloir.pathway.",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026800095171173106
   },
   "614": {
     "rank": 12,
+    "index": "614",
     "name": "PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.02668005653967999
   },
   "637": {
     "rank": 13,
+    "index": "637",
     "name": "PYRIDNUCSAL.PWY..NAD.salvage.pathway.I",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026662643629324797
   },
   "461": {
     "rank": 14,
+    "index": "461",
     "name": "DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026621531842888534
   },
   "552": {
     "rank": 15,
+    "index": "552",
     "name": "PWY.5659..GDP.mannose.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.02656143491978575
   },
   "522": {
     "rank": 16,
+    "index": "522",
     "name": "PWY0.1479..tRNA.processing",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.02643736021171402
   },
   "635": {
     "rank": 17,
+    "index": "635",
     "name": "PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026435529993812303
   },
   "597": {
     "rank": 18,
+    "index": "597",
     "name": "PWY.6731..starch.degradation.III",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026423746063367393
   },
   "630": {
     "rank": 19,
+    "index": "630",
     "name": "PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026412073918922613
   },
   "544": {
     "rank": 20,
+    "index": "544",
     "name": "PWY.5173..superpathway.of.acetyl.CoA.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.026377256624577336

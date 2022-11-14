@@ -1,120 +1,140 @@
 {
   "580": {
     "rank": 1,
+    "index": "580",
     "name": "PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.",
     "pvalue(-logP)": 2.4082399653118496,
     "feature importance": 0.0051426691320503965
   },
   "597": {
     "rank": 2,
+    "index": "597",
     "name": "PWY.6731..starch.degradation.III",
     "pvalue(-logP)": 2.4082399653118496,
     "feature importance": 0.004994627781945076
   },
   "596": {
     "rank": 3,
+    "index": "596",
     "name": "PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.",
     "pvalue(-logP)": 2.4082399653118496,
     "feature importance": 0.004958637041463557
   },
   "451": {
     "rank": 4,
+    "index": "451",
     "name": "ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis",
     "pvalue(-logP)": 2.4082399653118496,
     "feature importance": 0.0049395033670031185
   },
   "614": {
     "rank": 5,
+    "index": "614",
     "name": "PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis",
     "pvalue(-logP)": 1.864171920961574,
     "feature importance": 0.004894957934193759
   },
   "500": {
     "rank": 6,
+    "index": "500",
     "name": "P23.PWY..reductive.TCA.cycle.I",
     "pvalue(-logP)": 2.4082399653118496,
     "feature importance": 0.004868356544423446
   },
   "647": {
     "rank": 7,
+    "index": "647",
     "name": "TRPSYN.PWY..L.tryptophan.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
     "feature importance": 0.004863305630327522
   },
   "593": {
     "rank": 8,
+    "index": "593",
     "name": "PWY.6690..cinnamate.and.3.hydroxycinnamate.degradation.to.2.oxopent.4.enoate",
     "pvalue(-logP)": 2.010299956639812,
     "feature importance": 0.004857566232336923
   },
   "544": {
     "rank": 9,
+    "index": "544",
     "name": "PWY.5173..superpathway.of.acetyl.CoA.biosynthesis",
     "pvalue(-logP)": 1.864171920961574,
     "feature importance": 0.004843704814522147
   },
   "588": {
     "rank": 10,
+    "index": "588",
     "name": "PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis",
     "pvalue(-logP)": 1.7092699609758308,
     "feature importance": 0.0048338971663420185
   },
   "534": {
     "rank": 11,
+    "index": "534",
     "name": "PWY.4984..urea.cycle",
     "pvalue(-logP)": 1.864171920961574,
     "feature importance": 0.004821935059411433
   },
   "609": {
     "rank": 12,
+    "index": "609",
     "name": "PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation",
     "pvalue(-logP)": 2.4082399653118496,
     "feature importance": 0.00481718100973771
   },
   "515": {
     "rank": 13,
+    "index": "515",
     "name": "PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis",
     "pvalue(-logP)": 1.3113299523037931,
     "feature importance": 0.004785389808927315
   },
   "627": {
     "rank": 14,
+    "index": "627",
     "name": "PWY.7456..mannan.degradation",
     "pvalue(-logP)": 1.7092699609758308,
     "feature importance": 0.004766345686581106
   },
   "626": {
     "rank": 15,
+    "index": "626",
     "name": "PWY.7446..sulfoglycolysis",
     "pvalue(-logP)": 1.7092699609758308,
     "feature importance": 0.004753181582961353
   },
   "640": {
     "rank": 16,
+    "index": "640",
     "name": "RHAMCAT.PWY..L.rhamnose.degradation.I",
     "pvalue(-logP)": 1.864171920961574,
     "feature importance": 0.004750875976675393
   },
   "460": {
     "rank": 17,
+    "index": "460",
     "name": "DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II",
     "pvalue(-logP)": 1.5631419252975927,
     "feature importance": 0.0047493555074465035
   },
   "602": {
     "rank": 18,
+    "index": "602",
     "name": "PWY.6897..thiamin.salvage.II",
     "pvalue(-logP)": 2.2321487062561682,
     "feature importance": 0.004749353498630331
   },
   "548": {
     "rank": 19,
+    "index": "548",
     "name": "PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.",
     "pvalue(-logP)": 1.4305163600230018,
     "feature importance": 0.004743339174173168
   },
   "480": {
     "rank": 20,
+    "index": "480",
     "name": "HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.",
     "pvalue(-logP)": 1.4305163600230018,
     "feature importance": 0.004722932853503592
