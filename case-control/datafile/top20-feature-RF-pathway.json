@@ -1,142 +1,142 @@
 {
-  "509": {
-    "rank": 1,
-    "index": "509",
-    "name": "POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02745310259015539
-  },
-  "580": {
-    "rank": 2,
-    "index": "580",
-    "name": "PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.0274387798087317
-  },
   "612": {
-    "rank": 3,
+    "rank": 1,
     "index": "612",
     "name": "PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.027238195622251136
-  },
-  "451": {
-    "rank": 4,
-    "index": "451",
-    "name": "ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.0271213953654078
+    "feature importance": 0.002901226907513508
   },
   "626": {
-    "rank": 5,
+    "rank": 2,
     "index": "626",
     "name": "PWY.7446..sulfoglycolysis",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.027096969925849416
+    "feature importance": 0.0028264329296260305
   },
-  "495": {
-    "rank": 6,
-    "index": "495",
-    "name": "P108.PWY..pyruvate.fermentation.to.propanoate.I",
+  "451": {
+    "rank": 3,
+    "index": "451",
+    "name": "ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.027078830818142677
+    "feature importance": 0.0027887059692284274
   },
-  "609": {
-    "rank": 7,
-    "index": "609",
-    "name": "PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation",
+  "509": {
+    "rank": 4,
+    "index": "509",
+    "name": "POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.027028854288735218
-  },
-  "500": {
-    "rank": 8,
-    "index": "500",
-    "name": "P23.PWY..reductive.TCA.cycle.I",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026929320296503988
-  },
-  "640": {
-    "rank": 9,
-    "index": "640",
-    "name": "RHAMCAT.PWY..L.rhamnose.degradation.I",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026914388808928106
-  },
-  "615": {
-    "rank": 10,
-    "index": "615",
-    "name": "PWY.7221..guanosine.ribonucleotides.de.novo.biosynthesis",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026863719877780183
-  },
-  "592": {
-    "rank": 11,
-    "index": "592",
-    "name": "PWY66.422..D.galactose.degradation.V..Leloir.pathway.",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026800095171173106
-  },
-  "614": {
-    "rank": 12,
-    "index": "614",
-    "name": "PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02668005653967999
+    "feature importance": 0.002786958820690185
   },
   "637": {
-    "rank": 13,
+    "rank": 5,
     "index": "637",
     "name": "PYRIDNUCSAL.PWY..NAD.salvage.pathway.I",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026662643629324797
+    "feature importance": 0.0027677122540846907
   },
-  "461": {
-    "rank": 14,
-    "index": "461",
-    "name": "DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I",
+  "500": {
+    "rank": 6,
+    "index": "500",
+    "name": "P23.PWY..reductive.TCA.cycle.I",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026621531842888534
-  },
-  "552": {
-    "rank": 15,
-    "index": "552",
-    "name": "PWY.5659..GDP.mannose.biosynthesis",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02656143491978575
-  },
-  "522": {
-    "rank": 16,
-    "index": "522",
-    "name": "PWY0.1479..tRNA.processing",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02643736021171402
+    "feature importance": 0.0027389859958950468
   },
   "635": {
-    "rank": 17,
+    "rank": 7,
     "index": "635",
     "name": "PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026435529993812303
+    "feature importance": 0.0027215910275814967
   },
-  "597": {
-    "rank": 18,
-    "index": "597",
-    "name": "PWY.6731..starch.degradation.III",
+  "467": {
+    "rank": 8,
+    "index": "467",
+    "name": "FUC.RHAMCAT.PWY..superpathway.of.fucose.and.rhamnose.degradation",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026423746063367393
+    "feature importance": 0.002720491083340072
   },
-  "630": {
-    "rank": 19,
-    "index": "630",
-    "name": "PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff",
+  "580": {
+    "rank": 9,
+    "index": "580",
+    "name": "PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026412073918922613
+    "feature importance": 0.002702037112295894
   },
   "544": {
-    "rank": 20,
+    "rank": 10,
     "index": "544",
     "name": "PWY.5173..superpathway.of.acetyl.CoA.biosynthesis",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026377256624577336
+    "feature importance": 0.00269323044017886
+  },
+  "609": {
+    "rank": 11,
+    "index": "609",
+    "name": "PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026790430123886464
+  },
+  "640": {
+    "rank": 12,
+    "index": "640",
+    "name": "RHAMCAT.PWY..L.rhamnose.degradation.I",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002673243916390892
+  },
+  "477": {
+    "rank": 13,
+    "index": "477",
+    "name": "GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026691925953139617
+  },
+  "592": {
+    "rank": 14,
+    "index": "592",
+    "name": "PWY66.422..D.galactose.degradation.V..Leloir.pathway.",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026646074072435816
+  },
+  "615": {
+    "rank": 15,
+    "index": "615",
+    "name": "PWY.7221..guanosine.ribonucleotides.de.novo.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026631512757650517
+  },
+  "647": {
+    "rank": 16,
+    "index": "647",
+    "name": "TRPSYN.PWY..L.tryptophan.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026629618512207884
+  },
+  "552": {
+    "rank": 17,
+    "index": "552",
+    "name": "PWY.5659..GDP.mannose.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026528481953030005
+  },
+  "614": {
+    "rank": 18,
+    "index": "614",
+    "name": "PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002651961278561885
+  },
+  "639": {
+    "rank": 19,
+    "index": "639",
+    "name": "PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026458166853082386
+  },
+  "532": {
+    "rank": 20,
+    "index": "532",
+    "name": "PWY.3781..aerobic.respiration.I..cytochrome.c.",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026351732699437863
   }
 }

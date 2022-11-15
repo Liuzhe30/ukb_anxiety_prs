@@ -4,139 +4,139 @@
     "index": "782",
     "name": "k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__Lactobacillus_delbrueckii",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.027705662602116342
-  },
-  "721": {
-    "rank": 2,
-    "index": "721",
-    "name": "k__Bacteria.p__Firmicutes.c__Erysipelotrichia.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Holdemania",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02716109494245315
-  },
-  "760": {
-    "rank": 3,
-    "index": "760",
-    "name": "k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Coriobacteriales.f__Coriobacteriaceae.g__Eggerthella.s__Eggerthella_unclassified",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02695667267256737
-  },
-  "766": {
-    "rank": 4,
-    "index": "766",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__Parabacteroides_distasonis",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026864826673693044
+    "feature importance": 0.0027872798267736965
   },
   "824": {
-    "rank": 5,
+    "rank": 2,
     "index": "824",
     "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_dorei",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026864306937822453
-  },
-  "790": {
-    "rank": 6,
-    "index": "790",
-    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_eligens",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02657787212028532
+    "feature importance": 0.0027842389542473878
   },
   "849": {
-    "rank": 7,
+    "rank": 3,
     "index": "849",
     "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospiraceae_noname.s__Lachnospiraceae_bacterium_1_1_57FAA",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026540469806400496
+    "feature importance": 0.0027285907821645683
   },
-  "776": {
-    "rank": 8,
-    "index": "776",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_indistinctus",
+  "721": {
+    "rank": 4,
+    "index": "721",
+    "name": "k__Bacteria.p__Firmicutes.c__Erysipelotrichia.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Holdemania",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02630503775087716
+    "feature importance": 0.0027210920976237195
   },
-  "841": {
-    "rank": 9,
-    "index": "841",
-    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques",
+  "757": {
+    "rank": 5,
+    "index": "757",
+    "name": "k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__Bifidobacterium_longum",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026298828063074705
-  },
-  "779": {
-    "rank": 10,
-    "index": "779",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_senegalensis",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026281312590160536
-  },
-  "838": {
-    "rank": 11,
-    "index": "838",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_vulgatus",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026260279975638314
-  },
-  "771": {
-    "rank": 12,
-    "index": "771",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Paraprevotella.s__Paraprevotella_clara",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026225401337518064
-  },
-  "770": {
-    "rank": 13,
-    "index": "770",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__Parabacteroides_unclassified",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02622334444510615
-  },
-  "659": {
-    "rank": 14,
-    "index": "659",
-    "name": "k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026181023250666947
+    "feature importance": 0.0027196846166374295
   },
   "845": {
-    "rank": 15,
+    "rank": 6,
     "index": "845",
     "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__Coprococcus_sp_ART55_1",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026135782960024653
+    "feature importance": 0.0027166458862509925
   },
-  "775": {
-    "rank": 16,
-    "index": "775",
-    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_finegoldii",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026135578633904293
-  },
-  "712": {
-    "rank": 17,
-    "index": "712",
-    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospiraceae_noname",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026062570570755457
-  },
-  "848": {
-    "rank": 18,
-    "index": "848",
-    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__Dorea_unclassified",
-    "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.02604577420769573
+  "816": {
+    "rank": 7,
+    "index": "816",
+    "name": "k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Escherichia.s__Escherichia_coli",
+    "pvalue(-logP)": 2.010299956639812,
+    "feature importance": 0.002697218675162365
   },
   "774": {
-    "rank": 19,
+    "rank": 8,
     "index": "774",
     "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__Prevotella_copri",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026039682696853677
+    "feature importance": 0.002686043900597344
   },
-  "795": {
-    "rank": 20,
-    "index": "795",
-    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_ventriosum",
+  "770": {
+    "rank": 9,
+    "index": "770",
+    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__Parabacteroides_unclassified",
     "pvalue(-logP)": 2.709269960975831,
-    "feature importance": 0.026020881556760307
+    "feature importance": 0.0026855369661193435
+  },
+  "787": {
+    "rank": 10,
+    "index": "787",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__Clostridium_leptum",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026783604482529828
+  },
+  "799": {
+    "rank": 11,
+    "index": "799",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__Ruminococcus_bromii",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002677415069798308
+  },
+  "790": {
+    "rank": 12,
+    "index": "790",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_eligens",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026701251014230156
+  },
+  "771": {
+    "rank": 13,
+    "index": "771",
+    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Paraprevotella.s__Paraprevotella_clara",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002659039398082026
+  },
+  "855": {
+    "rank": 14,
+    "index": "855",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_intestinalis",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026505942040008063
+  },
+  "848": {
+    "rank": 15,
+    "index": "848",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__Dorea_unclassified",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026485261563041398
+  },
+  "856": {
+    "rank": 16,
+    "index": "856",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_inulinivorans",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.0026420758749137853
+  },
+  "823": {
+    "rank": 17,
+    "index": "823",
+    "name": "k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_coprocola",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002641275123766567
+  },
+  "670": {
+    "rank": 18,
+    "index": "670",
+    "name": "k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae",
+    "pvalue(-logP)": 1.864171920961574,
+    "feature importance": 0.0026327963817539984
+  },
+  "798": {
+    "rank": 19,
+    "index": "798",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcaceae_noname.s__Ruminococcaceae_bacterium_D16",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002631874091660749
+  },
+  "672": {
+    "rank": 20,
+    "index": "672",
+    "name": "k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiales_noname",
+    "pvalue(-logP)": 2.709269960975831,
+    "feature importance": 0.002629625030612119
   }
 }
