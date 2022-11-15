@@ -8,7 +8,7 @@ git-lfs clone https://github.com/Liuzhe30/ukb_anxiety_prs
 ```
 
 ## Regenie cmds
-We use [Regenie](https://github.com/rgcgithub/regenie) to generate GWAS files of anxiety paticipants of UKB, and we provide the [phenotype file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/datafile/ukb_phenotypes_BT.txt) and the [covariate file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/datafile/ukb_covariates.txt).
+We use [Regenie](https://github.com/rgcgithub/regenie) to generate GWAS files of anxiety paticipants of UKB, and we provide the [phenotype file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/datafile/ukb_phenotypes_BT.txt), the [numeric covariate file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/datafile/ukb_covariates.txt) and a demo of the [original covariate file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/preprocessing/covariables/2_is_anxiety.csv) (limited by the file size, just to show the original value of covariates).
 The cmds used are as follows:
 ```
 ./plink \
