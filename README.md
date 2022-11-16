@@ -9,7 +9,7 @@ git-lfs clone https://github.com/Liuzhe30/ukb_anxiety_prs
 
 ## Regenie cmds
 We use [Regenie](https://github.com/rgcgithub/regenie) to generate GWAS files of anxiety paticipants of UKB, and we provide the [phenotype file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/datafile/ukb_phenotypes_BT.txt), the [numeric covariate file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/datafile/ukb_covariates.txt) and a demo of the [original covariate file](https://github.com/Liuzhe30/ukb_anxiety_prs/tree/main/case-control/preprocessing/covariables/2_is_anxiety.csv) (limited by the file size, just to show the original value of covariates).
-The cmds used are as follows:
+The cmds used are as follows (with R version 4.2):
 ```
 ./plink \
   --bed ukb22418_c1_b0_v2.bed \
@@ -52,7 +52,7 @@ regenie \
 ```
 
 ## PRSice cmds
-We use [PRSice-2](https://github.com/choishingwan/PRSice) to generate PRS scores. The cmds used are as follows:
+We use [PRSice-2](https://github.com/choishingwan/PRSice) to generate PRS scores. The cmds used are as follows (with R version 4.0):
 ```
 Rscript PRSice.R --dir . \
     --prsice bin/PRSice \
@@ -71,7 +71,7 @@ Rscript PRSice.R --dir . \
 ```
 
 ## MR cmds
-We use [TwoSampleMR](https://mrcieu.github.io/TwoSampleMR/) to perform the Mendelian randomization analysis. The cmds used are as follows:
+We use [TwoSampleMR](https://mrcieu.github.io/TwoSampleMR/) to perform the Mendelian randomization analysis. The cmds used are as follows (with R version 4.2):
 ```
 library("TwoSampleMR")
 library(dplyr)
